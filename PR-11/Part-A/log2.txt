@@ -1,0 +1,4 @@
+INFO: User logged in.
+ERROR: NullPointerException in module X.
+ERROR: Timeout while fetching API.
+INFO: Application shutting down.
